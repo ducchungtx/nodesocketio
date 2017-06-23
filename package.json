@@ -1,0 +1,17 @@
+{
+  "name": "socket-notify-kong",
+  "version": "1.0.0",
+  "description": "NodeJS Server get and push notifications",
+  "main": "index.js",
+  "dependencies": {
+    "http": "latest",
+    "socket.io": "1.3.7",
+    "express": "4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Kong",
+  "license": "ISC"
+}
